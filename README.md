@@ -1,14 +1,17 @@
 # M.R.S 777
 
-## Welcome to M.R.S 777
+## Menu
+- [Home](#home)
+- [Products](#products)
+- [About Us](#about-us)
+- [Contact](#contact)
 
-![M.R.S 777 Logo](https://link_to_your_logo_image)
+## Home
+Welcome to M.R.S 777
 
 ## Products
 
-###MRS777 Video Registrator
-
-![Tesla Monitor](https://frankfurt.apollo.olxcdn.com/v1/files/x9zuy5wac5jm3-UZ/image)
+## MRS777 video registrator
 
 **360° gradus kamera ulasa bo’ladi**
 
