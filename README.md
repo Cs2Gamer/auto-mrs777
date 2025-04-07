@@ -11,7 +11,7 @@ Welcome to M.R.S 777
 
 ## Products
 
-## MRS777 video registrator
+ MRS777 video registrator
 
 **360° gradus kamera ulasa bo’ladi**
 
